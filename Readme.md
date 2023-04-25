@@ -1,6 +1,6 @@
 # Google Weather (JD Edition)
 
-![](/assets/images/Google-Weather-(JD-Edition)-1500px.jpg)
+![](Google-Weather-(JD-Edition)-1500px.jpg)
 
 I saw [this](https://www.deviantart.com/fivetwofoureight/art/Google-Weather-5-0-OUTDATED-more-info-below-613748355) skin on DeviantArt by fivetwofoureight, and I figured I'd remake it and update the weather parser.
 
